@@ -22,30 +22,27 @@ $warehousesOrder = [
     'XONA' => 'Plaza Peas Xona - EDO. MÉX.',
 ];
 
-// Labels visibles (SOLO CAMBIAMOS los 3 que pediste)
 $warehouseLabels = [
-    'AC' => 'AC',
-    'PL' => 'PL',
-    'PM' => 'PM',
-    'SA' => 'IXT',
-    'SL' => 'LER',
-    'AM' => 'MET',
-    'CA' => 'DMZ',
-    'AT' => 'ATL',
-    'PZ' => 'ZNA',
-    'CM' => 'CM',
-    'XONA' => 'XNA',
+    'AC'   => 'ALC',
+    'PM'   => 'STG',
+    'SA'   => 'IXT',
+    'SL'   => 'LER',
+    'AM'   => 'MET',
+    'CA'   => 'CDM',
+    'AT'   => 'ATL',
+    'PZ'   => 'ZIN',
+    'XONA' => 'XON',
 ];
 
 $warehousePrintNames = [
-    'AC' => 'A. Central',
-    'PM' => 'Tianguis.',
-    'SA' => 'San Angel',
-    'SL' => 'Sendero',
-    'AM' => 'Metepec',
-    'CA' => 'Del Mazo',
-    'AT' => 'Atlaco.',
-    'PZ' => 'Zina',
+    'AC'   => 'Alm. Central',
+    'PM'   => 'Tianguis.',
+    'SA'   => 'Ixtlahuaca',
+    'SL'   => 'Lerma',
+    'AM'   => 'Metepec',
+    'CA'   => 'Del Mazo',
+    'AT'   => 'Atlacomulco',
+    'PZ'   => 'Plaza Zina',
     'XONA' => 'Xona',
 ];
 
